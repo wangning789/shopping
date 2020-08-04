@@ -1,0 +1,124 @@
+2020-07-27 00:02:48,756 INFO 2168 [egg-logrotator] agent logger reload: got log-reload message
+2020-07-27 00:30:09,277 ERROR 2168 nodejs.ClusterClientNoResponseError: client no response in 1603756ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\aliebware\Desktop\wang\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2168
+hostname: aliebware-PC
+
+2020-07-27 08:45:29,631 INFO 3576 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-27 08:45:29,639 INFO 3576 [egg:core] dump config after load, 4ms
+2020-07-27 08:45:29,862 INFO 3576 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-07-27 08:45:29,862 INFO 3576 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-07-27 08:45:29,864 INFO 3576 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-07-27 08:45:29,864 INFO 3576 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-07-27 08:45:29,865 INFO 3576 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-07-27 08:45:29,865 INFO 3576 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-07-27 08:45:29,866 INFO 3576 [egg-watcher:agent] watcher start success
+2020-07-27 08:45:29,915 INFO 3576 [egg:core] dump config after ready, 18ms
+2020-07-28 08:36:23,816 INFO 8420 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-28 08:36:23,824 INFO 8420 [egg:core] dump config after load, 4ms
+2020-07-28 08:36:24,039 INFO 8420 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-07-28 08:36:24,039 INFO 8420 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-07-28 08:36:24,041 INFO 8420 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-07-28 08:36:24,041 INFO 8420 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-07-28 08:36:24,042 INFO 8420 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-07-28 08:36:24,042 INFO 8420 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-07-28 08:36:24,043 INFO 8420 [egg-watcher:agent] watcher start success
+2020-07-28 08:36:24,078 INFO 8420 [egg:core] dump config after ready, 14ms
+2020-07-28 13:31:29,962 ERROR 8420 nodejs.ClusterClientNoResponseError: client no response in 3403566ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\aliebware\Desktop\wang\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 8420
+hostname: aliebware-PC
+
+2020-07-29 08:50:49,067 INFO 3872 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-29 08:50:49,075 INFO 3872 [egg:core] dump config after load, 4ms
+2020-07-29 08:50:49,441 INFO 3872 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-07-29 08:50:49,441 INFO 3872 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-07-29 08:50:49,442 INFO 3872 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-07-29 08:50:49,442 INFO 3872 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-07-29 08:50:49,442 INFO 3872 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-07-29 08:50:49,442 INFO 3872 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-07-29 08:50:49,442 INFO 3872 [egg-watcher:agent] watcher start success
+2020-07-29 08:50:49,458 INFO 3872 [egg:core] dump config after ready, 8ms
+2020-07-29 10:12:31,482 INFO 4868 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-29 10:12:31,494 INFO 4868 [egg:core] dump config after load, 6ms
+2020-07-29 10:12:31,671 INFO 4868 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-07-29 10:12:31,671 INFO 4868 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-07-29 10:12:31,672 INFO 4868 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-07-29 10:12:31,672 INFO 4868 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-07-29 10:12:31,672 INFO 4868 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-07-29 10:12:31,672 INFO 4868 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-07-29 10:12:31,673 INFO 4868 [egg-watcher:agent] watcher start success
+2020-07-29 10:12:31,703 INFO 4868 [egg:core] dump config after ready, 13ms
+2020-07-29 13:25:55,651 ERROR 4868 nodejs.ClusterClientNoResponseError: client no response in 401548ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\aliebware\Desktop\wang\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 4868
+hostname: aliebware-PC
+
+2020-07-29 18:56:54,789 WARN 4868 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-07-30 08:45:35,418 INFO 6236 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-30 08:45:35,435 INFO 6236 [egg:core] dump config after load, 9ms
+2020-07-30 08:45:35,733 INFO 6236 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-07-30 08:45:35,733 INFO 6236 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-07-30 08:45:35,733 INFO 6236 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-07-30 08:45:35,733 INFO 6236 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-07-30 08:45:35,734 INFO 6236 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-07-30 08:45:35,734 INFO 6236 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-07-30 08:45:35,734 INFO 6236 [egg-watcher:agent] watcher start success
+2020-07-30 08:45:35,752 INFO 6236 [egg:core] dump config after ready, 8ms
+2020-08-02 14:37:06,328 INFO 12344 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-08-02 14:37:06,345 INFO 12344 [egg:core] dump config after load, 9ms
+2020-08-02 14:37:06,672 INFO 12344 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-08-02 14:37:06,672 INFO 12344 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-08-02 14:37:06,673 INFO 12344 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-08-02 14:37:06,673 INFO 12344 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-08-02 14:37:06,674 INFO 12344 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-08-02 14:37:06,674 INFO 12344 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-08-02 14:37:06,674 INFO 12344 [egg-watcher:agent] watcher start success
+2020-08-02 14:37:06,717 INFO 12344 [egg:core] dump config after ready, 10ms
+2020-08-03 08:47:45,320 INFO 5220 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-08-03 08:47:45,333 INFO 5220 [egg:core] dump config after load, 7ms
+2020-08-03 08:47:45,623 INFO 5220 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-08-03 08:47:45,623 INFO 5220 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-08-03 08:47:45,623 INFO 5220 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-08-03 08:47:45,624 INFO 5220 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-08-03 08:47:45,624 INFO 5220 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-08-03 08:47:45,624 INFO 5220 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-08-03 08:47:45,624 INFO 5220 [egg-watcher:agent] watcher start success
+2020-08-03 08:47:45,639 INFO 5220 [egg:core] dump config after ready, 7ms
+2020-08-04 08:40:26,939 INFO 1476 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-08-04 08:40:26,956 INFO 1476 [egg:core] dump config after load, 9ms
+2020-08-04 08:40:27,325 INFO 1476 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-08-04 08:40:27,326 INFO 1476 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-08-04 08:40:27,327 INFO 1476 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-08-04 08:40:27,327 INFO 1476 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-08-04 08:40:27,328 INFO 1476 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-08-04 08:40:27,328 INFO 1476 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-08-04 08:40:27,329 INFO 1476 [egg-watcher:agent] watcher start success
+2020-08-04 08:40:27,359 INFO 1476 [egg:core] dump config after ready, 13ms
+2020-08-04 09:07:26,396 INFO 11648 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\aliebware\\Desktop\\wang\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-08-04 09:07:26,405 INFO 11648 [egg:core] dump config after load, 5ms
+2020-08-04 09:07:26,455 INFO 11648 [egg-watcher] Start watching: ["C:\\Users\\aliebware\\Desktop\\wang\\server\\app","C:\\Users\\aliebware\\Desktop\\wang\\server\\config","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks","C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy","C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"]
+2020-08-04 09:07:26,455 INFO 11648 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app"
+2020-08-04 09:07:26,455 INFO 11648 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\config"
+2020-08-04 09:07:26,455 INFO 11648 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks"
+2020-08-04 09:07:26,456 INFO 11648 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\mocks_proxy"
+2020-08-04 09:07:26,456 INFO 11648 [egg-watcher] Start watching: "C:\\Users\\aliebware\\Desktop\\wang\\server\\app.js"
+2020-08-04 09:07:26,456 INFO 11648 [egg-watcher:agent] watcher start success
+2020-08-04 09:07:26,470 INFO 11648 [egg:core] dump config after ready, 6ms
+2020-08-04 13:30:13,158 ERROR 11648 nodejs.ClusterClientNoResponseError: client no response in 5077163ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\aliebware\Desktop\wang\server\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 11648
+hostname: aliebware-PC
+

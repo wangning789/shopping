@@ -1,0 +1,48 @@
+<template>
+ <div>
+<div class="box"></div>
+<van-swipe :autoplay="3000">
+  <van-swipe-item v-for="(image, index) in images" :key="index">
+    <img v-lazy="image" />
+  </van-swipe-item>
+</van-swipe>
+ </div>
+</template>
+
+<script>
+import Vue from 'vue';
+import { Lazyload } from 'vant'
+ export default {
+   name: '',
+   props: {
+   },
+   components: {
+
+   },
+   data () {
+     return {
+
+     }
+   },
+   methods: {
+
+   },
+   mounted() {
+
+   },
+   watch: {
+
+   },
+   computed: {
+
+   }
+ }
+</script>
+
+<style scoped lang='scss'>
+.box{
+    height: 55px;
+    width: 100vw;
+}
+
+</style>

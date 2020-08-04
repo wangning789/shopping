@@ -1,0 +1,326 @@
+{
+  "keys": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+  "middleware": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+      "port": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+      "hostname": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js"
+    }
+  },
+  "view": {
+    "mapping": {
+      ".html": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js"
+    },
+    "root": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "mongoose": {
+    "client": {
+      "url": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+      "options": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js"
+    },
+    "open": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "url": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "options": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "plugins": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "loadModel": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "app": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js",
+    "agent": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-mongoose@3.2.0@egg-mongoose\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "domainWhiteList": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "key": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "maxAge": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "overwrite": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "signed": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "rolling": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "renew": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "encrypt": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "jsonLimit": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "textLimit": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "strict": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "depth": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+    "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-jwt@3.1.7@egg-jwt\\config\\config.default.js"
+  },
+  "url": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+  "uploadDir": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+  "secret": "C:\\Users\\aliebware\\Desktop\\wang\\server\\config\\config.default.js",
+  "helper": {
+    "shtml": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "ejs": {
+    "root": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "cache": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.local.js",
+    "debug": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "delimiter": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js",
+    "strict": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg-view-ejs@2.0.1@egg-view-ejs\\config\\config.default.js"
+  },
+  "env": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "name": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "cookies": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "version": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "description": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "private": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "axios": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-cors": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-jwt": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-mongoose": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-scripts": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-view-ejs": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "md5": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "mz-modules": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "request": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "silly-datetime": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "svg-captcha": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "swiper": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "vue-awesome-swiper": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "autod-egg": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-bin": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-ci": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "egg-mock": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "eslint": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "webstorm-disable-index": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "stop": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "dev": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "debug": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "test": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "test-local": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "cov": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "lint": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "ci": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "autod": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "url": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "license": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "baseDir": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "env": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "level": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "logging": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "serverTimeout": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\aliebware\\Desktop\\wang\\server\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+}
